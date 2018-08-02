@@ -1,33 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="26"
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
     build-mode="FULL"
-    density="420dpi"
+    density="tvdpi"
     format="10"
     plugin-version="3.0.0"
-    timestamp="1530177972998"
+    timestamp="1533174104803"
     token="1493524638618831296"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1541" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="500" />
     <task
         name="verifier"
-        duration="0" />
+        duration="145" />
 
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
     <artifact
         location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -39,36 +84,69 @@
         location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
         location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
         location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
-    <artifact
-        location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\outputs\apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1530177972998"
+        timestamp="1533174104803"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle24-test\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -80,26 +158,14 @@
             location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\am\AndroidStudioProjects\ImagePuzzle241\app\build\outputs\apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

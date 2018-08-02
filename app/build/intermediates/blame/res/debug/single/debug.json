@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_selectstage.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\selectstage.png"
+    },
+    {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_hard.png.flat",
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\hard.png"
     },
@@ -16,24 +20,20 @@
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_scale_1.xml.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\anim\\animation_scale_1.xml"
-    },
-    {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_selectmode.png.flat",
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\selectmode.png"
     },
     {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_startgamen.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\startgamen.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_start.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\start.png"
+    },
+    {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\raw_bgm3.mp3.flat",
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\raw\\bgm3.mp3"
-    },
-    {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_selectstage.png.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\selectstage.png"
-    },
-    {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_normal.png.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\normal.png"
     },
     {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
@@ -42,6 +42,134 @@
     {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_start.png.flat",
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\layout_start.xml.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image0.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\image0.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_mainpanel.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\mainpanel.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\layout_start.xml.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_scale_1.xml.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\anim\\animation_scale_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\raw_bgm3.mp3.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\raw\\bgm3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_translate_1.xml.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\anim\\animation_translate_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gamestart.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\gamestart.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\menu_puzzle.xml.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\menu\\puzzle.xml"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\raw_bgm0.mp3.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\raw\\bgm0.mp3"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image1.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\image1.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gamen3.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\gamen3.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\raw_bgm2.mp3.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\raw\\bgm2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_start2.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\start2.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_countpanel1.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\countpanel1.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_normal.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\normal.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_easy.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\easy.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\menu_puzzle.xml.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\menu\\puzzle.xml"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gamen2.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\gamen2.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_startgamen.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\startgamen.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_selectmode.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\selectmode.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gamestart.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\gamestart.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_scale_1.xml.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\anim\\animation_scale_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_hard.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\hard.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_selectstage.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\selectstage.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_normal.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\normal.png"
     },
     {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_countpanel.png.flat",
@@ -60,56 +188,64 @@
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\gamen2.png"
     },
     {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_mainpanel.png.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\mainpanel.png"
-    },
-    {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\layout_start.xml.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\layout\\start.xml"
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_mainpanel.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\mainpanel.png"
     },
     {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\raw_bgm1.mp3.flat",
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\raw\\bgm1.mp3"
     },
     {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_translate_1.xml.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\anim\\animation_translate_1.xml"
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_clear.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\clear.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\raw_bgm1.mp3.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\raw\\bgm1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gamen1.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\gamen1.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image2.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\image2.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_countpanel.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\countpanel.png"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_startpanel.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\startpanel.png"
     },
     {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_countpanel1.png.flat",
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\countpanel1.png"
     },
     {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gamestart.png.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\gamestart.png"
-    },
-    {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image1.png.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\image1.png"
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_translate_1.xml.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\anim\\animation_translate_1.xml"
     },
     {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_clear.png.flat",
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\clear.png"
     },
     {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gamen3.png.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\gamen3.png"
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image1.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\image1.png"
     },
     {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_startpanel.png.flat",
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\startpanel.png"
     },
     {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\raw_bgm2.mp3.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\raw\\bgm2.mp3"
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_start2.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\start2.png"
     },
     {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_start2.png.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\start2.png"
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gamen3.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\gamen3.png"
     },
     {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
@@ -120,12 +256,8 @@
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\gamen1.png"
     },
     {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\menu_puzzle.xml.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\menu\\puzzle.xml"
-    },
-    {
-        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_startgamen.png.flat",
-        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\drawable-nodpi\\startgamen.png"
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_timeover.png.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\drawable-nodpi\\timeover.png"
     },
     {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
@@ -134,5 +266,9 @@
     {
         "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\res\\merged\\debug\\raw_bgm0.mp3.flat",
         "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\src\\main\\res\\raw\\bgm0.mp3"
+    },
+    {
+        "merged": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\res\\merged\\debug\\raw_bgm2.mp3.flat",
+        "source": "C:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\src\\main\\res\\raw\\bgm2.mp3"
     }
 ]

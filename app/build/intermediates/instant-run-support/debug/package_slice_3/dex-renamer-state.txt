@@ -1,4 +1,4 @@
-#Thu Jun 28 18:25:11 JST 2018
-base.0=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+#Thu Aug 02 10:42:09 JST 2018
+base.0=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
 renamed.0=classes.dex
-file.0=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3\\classes.dex
+file.0=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22\\classes.dex

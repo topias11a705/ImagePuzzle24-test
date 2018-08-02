@@ -3,6 +3,6 @@
     android:interpolator="@android:anim/accelerate_decelerate_interpolator"
     android:toYDelta="150"
     android:fillAfter="true"
-    android:repeatCount="infinite"
+    android:repeatCount="1"
     android:repeatMode="reverse"
     android:duration="1500" />

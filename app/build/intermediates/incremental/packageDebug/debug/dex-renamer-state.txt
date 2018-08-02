@@ -1,4 +1,19 @@
-#Thu Jun 28 18:44:58 JST 2018
-base.0=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+#Thu Aug 02 10:42:11 JST 2018
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle241\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18\\classes.dex
+base.5=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+base.4=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30
+base.3=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\35
+base.2=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\34
+base.1=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\33
+base.0=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\32
+file.5=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31\\classes.dex
+file.4=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30\\classes.dex
+file.3=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\35\\classes.dex
+file.2=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\34\\classes.dex
+file.1=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\33\\classes.dex
+file.0=C\:\\Users\\am\\AndroidStudioProjects\\ImagePuzzle24-test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\32\\classes.dex
